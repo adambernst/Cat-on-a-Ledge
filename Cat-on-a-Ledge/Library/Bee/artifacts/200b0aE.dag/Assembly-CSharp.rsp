@@ -332,6 +332,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Camera3DLERP.cs"
+"Assets/Scripts/PlayerMove3D.cs"
 "Assets/XX sample Scene stuff/Scripts/Readme.cs"
 "Assets/XX sample Scene stuff/SimpleCameraController.cs"
 -langversion:8.0
