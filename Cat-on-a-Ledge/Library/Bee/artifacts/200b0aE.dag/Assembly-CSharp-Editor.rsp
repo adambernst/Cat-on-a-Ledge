@@ -343,7 +343,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
+"Assets/XX sample Scene stuff/Scripts/Editor/ReadmeEditor.cs"
 -langversion:8.0
 
 /deterministic
